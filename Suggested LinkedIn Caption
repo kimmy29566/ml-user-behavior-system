@@ -1,0 +1,3 @@
+พัฒนาระบบวิเคราะห์พฤติกรรมผู้ใช้งานเว็บไซต์แบบ Real-time ด้วย Machine Learning โดยใช้ FastAPI, React.js และ scikit-learn เพื่อวิเคราะห์ข้อมูลผู้ใช้งานและแสดงผลผ่าน Dashboard Analytics
+
+#MachineLearning #DataAnalytics #ReactJS #FastAPI #AI
