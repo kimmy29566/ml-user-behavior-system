@@ -1,1 +1,7 @@
-
+user_id,page_category,clicks,duration,return_user,interest
+1,AI,15,320,1,High
+2,Cybersecurity,5,120,0,Low
+3,Cloud,10,250,1,Medium
+4,Programming,20,500,1,High
+5,AI,8,200,0,Medium
+6,Cloud,14,450,1,High
